@@ -61,7 +61,7 @@ public class Array {
 
         double ip = tb / ts;
 
-        // ================= OUTPUT YANG SUDAH DIRAPIKAN =================
+
 
         System.out.println("\nHasil Konversi Nilai");
         System.out.println("==============================================================");
