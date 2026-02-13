@@ -1,15 +1,9 @@
-
-    import java.util.Scanner;
-
+import java.util.Scanner;
 public class T1 {
     public static boolean cocokkanK(char[] kodeBaris, String inputKode) {
-       
         if (inputKode.length() > kodeBaris.length) {
             return false;
         }
-
-       
-        
         for (int j = 0; j < inputKode.length(); j++) {
             if (kodeBaris[j] != inputKode.charAt(j)) {
                 return false;

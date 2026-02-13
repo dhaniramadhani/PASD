@@ -1,8 +1,5 @@
 import java.util.Scanner;
 public class Pemilihan {
-
-
-
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         double tugas,kuis,uts,uas;
